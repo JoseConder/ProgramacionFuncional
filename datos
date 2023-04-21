@@ -1,0 +1,80 @@
+001,Arroz,20,Granos,100,20,150
+002,Frijoles,25,Granos,80,15,120
+003,Azúcar,13,Endulzantes,120,25,200
+004,Sal,5,Especias,150,30,250
+005,Aceite,50,Aceitesygrasas,60,10,80
+006,Leche,18,Productoslacteos,90,20,120
+007,Huevos,25,Huevosyderivados,50,10,80
+008,Queso,40,Productoslacteos,13,10,100
+009,Yogurt,15,Productoslacteos,60,10,80
+010,Pan,12,Panyderivados,150,30,250
+011,Galletas,10,Dulcesypostres,120,25,200
+012,Refresco,15,Bebidas,100,20,150
+013,Agua,10,Bebidas,200,40,300
+014,Cerveza,25,Bebidas,80,15,120
+015,Vino,100,Bebidas,30,5,50
+016,Carne de res,150,Carnesyaves,40,10,60
+017,Carne de cerdo,130,Carnesyaves,60,10,80
+018,Pollo,100,Carnesyaves,80,15,120
+019,Pescado,120,Mariscos,50,10,80
+020,Atún enlatado,25,Enlatados,70,15,100
+021,Sardinas enlatadas,15,Enlatados,90,20,120
+022,Pasta de dientes,20,Higienepersonal,120,25,200
+023,Jabón de baño,10,Higienepersonal,100,20,150
+024,Champú,25,Higienepersonal,80,15,120
+025,Acondicionador de cabello,25,Higienepersonal,80,15,120
+026,Papel higiénico,10,Papelyempaques,200,40,300
+027,Servilletas de papel,5,Papelyempaques,150,30,250
+028,Detergente para ropa,30,Limpieza,12,10,80
+029,Suavizante de telas,20,Limpieza,80,15,120
+030,Cloro,15,Limpieza,100,20,150
+031,Limpiador multiusos,18,Limpieza,90,20,120
+032,Bolsas de basura,10,Papelyempaques,120,25,200
+033,Pilas,8,Energiaybaterias,100,20,150
+034,Lámparas,50,Iluminacion,30,5,50
+035,Velas,10,Iluminacion,80,15,120
+036,Fósforos,5,Encendedoresycerillos,150,30,250
+037,Cigarros,35,Tabacoycigarrillos,50,10,80
+038,Encendedor,20,Encendedoresycerillos,90,20,120
+039,Café,35,Bebidas,60,10,80
+040,Té,30,Bebidas,80,15,120
+041,Jugo de naranja,25,Jugosynectares,70,15,100
+042,Jugo de manzana,25,Jugosynectares,70,15,100
+043,Jugo de piña,25,Jugosynectares,70,15,100
+044,Jugo de toronja,25,Jugosynectares,70,15,100
+045,Harina de trigo,18,Harinasymezclas,120,25,200
+046,Masa para tortillas,15,Harinasymezclas,100,20,150
+047,Cereal,25,Cerealesygranolas,80,15,120
+048,Pan integral,15,Panyderivados,90,20,120
+049,Frutas en almíbar,20,Enlatados,70,15,100
+050,Vinagre,10,Aderezosyvinagres,100,20,150
+051,Aceitunas,20,Enlatados,70,15,100
+052,Mermelada,15,Endulzantes,100,20,150
+053,Pasta para sopa,10,Harinasymezclas,120,25,200
+054,Crema de cacahuate,25,Untables,60,10,80
+055,Miel,40,Endulzantes,50,10,80
+056,Mantequilla,35,Productoslacteos,60,10,80
+057,Margarina,30,Aceitesygrasas,60,10,80
+058,Chiles enlatados,15,Enlatados,100,20,150
+059,Chiles secos,25,Especias,80,15,120
+060,Condimentos,15,Especias,100,20,150
+061,Salsa de tomate,20,Enlatados,70,15,100
+062,Pure de tomate,15,Enlatados,90,20,120
+063,Salsa para pasta,20,Enlatados,70,15,100
+064,Mole,30,Enlatados,60,10,80
+065,Aderezo para ensaladas,15,Aderezosyvinagres,100,20,150
+066,Papas fritas,10,Botanasysnacks,120,25,200
+067,Palomitas de maíz,10,Botanasysnacks,120,25,200
+068,Cacahuates,15,Botanasysnacks,100,20,150
+069,Gomitas,5,Dulcesypostres,150,30,250
+070,Chocolates,10,Dulcesypostres,120,25,200
+071,Paletas de hielo,5,Dulcesypostres,150,30,250
+072,Caramelos,5,Dulcesypostres,150,30,250
+073,Tortillas,10,Panyderivados,120,25,200
+074,Pan dulce,12,Panyderivados,100,20,150
+075,Pan blanco,10,Panyderivados,120,25,200
+076,Tostadas,10,Panyderivados,120,25,200
+077,Galletas saladas,15,Galletas,100,20,150
+078,Galletas dulces,15,Galletas,100,20,150
+079,Leche,20,Productoslacteos,80,15,120
+080,Yogur,25,Productoslacteos,70,15,100
